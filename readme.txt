@@ -8,3 +8,8 @@ piaoxijun(???)
 
 
 http://tieba.baidu.com/p/1139683621
+
+------------
+Perceptual Computing SDK 2013
+
+http://software.intel.com/en-us/vcsource/tools/perceptual-computing-sdk
