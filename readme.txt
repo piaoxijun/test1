@@ -19,3 +19,8 @@ http://software.intel.com/en-us/vcsource/tools/perceptual-computing-sdk
 
 
 http://buildnewgames.com/
+
+
+http://ishare.iask.sina.com.cn/f/22114537.html
+http://ishare.iask.sina.com.cn/f/22114547.html
+http://ishare.iask.sina.com.cn/f/20635023.html
